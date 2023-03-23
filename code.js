@@ -1,3 +1,48 @@
+
+//FUNCTIONAL PROGRAMMING
+
+
+// scope 
+var car = "Toyota Hilux";     // this function is a global variable, it can be used anywhere in this scope/file
+
+function bestCars() {
+    var first = "Ferrari";
+    var second = "Lamborghini";      // this varriable is scoped to this function and is referred to as a local variable
+    var third = "Bughatti";
+}
+
+
+//recursion 
+var counter = 3;
+
+function myDay() {
+    console.log("Eat");
+    console.log("Work");
+    console.log("Code");
+    console.log("repeat");
+
+    counter = counter - 1;
+    if (counter > 0) {
+        myDay();
+    }
+}
+
+console.log(myDay());
+
+
+// this function will return the val value and also the function call without undefined. It is like calling the console.log 
+function consoleLog(val) {
+    console.log(val)
+    return val
+}
+
+
+
+
+
+
+
+
 // ERROR HANDLING 
 
 
