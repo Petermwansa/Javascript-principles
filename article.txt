@@ -1,0 +1,65 @@
+A ROADMAP TO BECOMING A BETTER PROGRAMMER.
+
+I rememeber when I first started learning progamming I was introduced to the C programming language. 
+I didn't get a hang of it until after a few lessons that was when I started getting glimpses of what was transpriring inside the IDE.
+
+But one thing that kept me going? Enthusiasm, dedication and eagerness to learn new things. 
+Of course, prior to that I had learnt some programming, but as compared to what I faced, what I had learnt ealier was very little.
+By the way, it was in a University setup and this brings me to the next question that I am sure most of you also wonder why it is likw that.
+
+
+
+WHY DO MOST UNIVERSITIES START WITH THE C OR JAVA LANGUAGES IN THEIR FIRST SEMESTERS?
+This question pop up into my head when I did a research and discovered that actually most universities introduce their freshmen to either a
+a low level programming like C language or the Java language in their first sememsters, well unless otherwise and there might be a few exceptions
+but the majority of high learning institutions do that.
+
+    Well, one of the reasons to this as you might be aware is that, programs that are impelemented in low level programming languages are memory
+efficient and they run fast and most of them can can convert to machine code, a language which a computer understand 
+without an interpreter or compiler.
+
+    Regardless of the reasons to deal with memory and compile time. In my own point of view, another benefit of introducing new programmers to 
+low level programming languages is basically what I would refer to as the "Roots of Programming". Wait, let me put it this way: 
+If you have ever done Calculus before, have you noticed that calculus II is easier if you have grasped the concepts of Calculus I?
+Yes, and that is the approach I believe the learning institutions take even if the direction that the learner is taking might have little to 
+do with the C programming language, they decide to give it to them in their first sememsters anyway.
+
+    Personally, as the majority of the programmers out there, the first line of code that I wrote was to print out "Hello World" and I know 
+you can guess the language in which it was written. Python. It was an amazing experience runnig my first line of code. I later went on 
+and learnt a few more conding concepts and syntax of the Python Programming language but it was not until I was introduced to the conepts
+of the C languages that I accepted the beauty of the Python language. 
+To cut the long story short, Python was build using the C language, so, in order to have a better understanding of the magic that happens
+in the Python language, you will need to understand what I will call it's building blocks, the C language. 
+Yes, I mean the 'pointers'(the same ones that have made a lot of aspiring software engineers give up on the dream)
+and all other stuff associated with the C programming language.
+
+WHAT SHOULD I LEARN?
+If you find yourself posed with this question, it is most likely that you know or have ideas on what you want to buld or at least have ideas
+on what kind of a developer you would want to be.
+Unlike most other resources or advice you might have found on YouTube or from any other platform where they advice on taking Python as
+as the first programming language to start with. Although the goal is to learn a language to help you buld what you want to build,
+my advice would be to first dive into the C programming language or even Java can do. After having had mastered the fundamentals of programming, 
+the next thing you can focus on now is mastering the language or the languages that you will need to build what you want to build and 
+accomplish your goals. The most important this is to know the fundamentals and then build on that as you dig deeper into what you want to master.
+
+There are many tools out there that will help you become the kind of a developer that you wish to be.
+Is is mobile development? Well, then you can move on to learning Java, Kotlin, Objective-C, Swift, Dart, among others.
+Do you want to venture into the game industry? C, C Sharp, C++ oe even JavaScript would do and you can also do it with Java(I remember
+developing a game in Android Studio using the Java Language).
+
+You want to build web applications? HTML and CSS would do for markup and JavaScript would do a good job for it is usually identified as
+the language of the web, you can also include PHP and MySQL for the backend and you will be able to build awesome applications for the web.
+After that, you can go on and master other tools, libraries and frameworks which will speed up your developement process. Among them inculdes: 
+React(a JavaScript library developed by developers from Meta, it was then facebook though), Angular, Bootstrap, Tailwind, well, the list is endless.
+
+
+Let me end by pointing out the most important thing that will guide you in your learning journey. CONSISTENCY AND DECICATION.
+To be honest, there will be time when you will feel like you are not doing anything or making any progress, but, trust me you are.
+Learning to code is a compound effect, the small steps in your development build up and by the time you realise, you would have had developed 
+into a very good progrmmer provided you remain consistent and dedicated to what you are doing. 
+Try as much as you can to dedicate at least an hour of your day to work on your skills and it will eventually pay off in the end:
+"The only way to learn to code is to code" - Samuel kapansa.
+
+You want to get some tips from me on how I keep myself consistent in my coding journey? Be on the look out for my next artitlce.
+
+
